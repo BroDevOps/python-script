@@ -13,7 +13,8 @@ kube_node_info{internal_ip="10.203.70.123"}
 """
 # now we have recieved the instance id --> i-0bb1201147d0daa54
 
+## run the script first
 
-#### paste this instance id on the python script and check the data
+#### then find the same instance id from the data and check the events
 
 
